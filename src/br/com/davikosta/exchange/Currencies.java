@@ -1,4 +1,4 @@
-package br.com.davikosta.currencies;
+package br.com.davikosta.exchange;
 
 public class Currencies {
     private String firstCurrency;
