@@ -19,6 +19,7 @@ public class ChoiceMenu {
                 4 - JPY (Japanese Yen)
                 5 - GBP (Pound Sterling)
                 6 - CNY (Chinese Renminbi)
+                7 - Encerrar programa!
                 """);
     }
 }

@@ -8,12 +8,12 @@ public class Currencies {
         return firstCurrency;
     }
 
-    public String getSecondCurrency() {
-        return secondCurrency;
-    }
-
     public void setFirstCurrency(String firstCurrency) {
         this.firstCurrency = firstCurrency;
+    }
+
+    public String getSecondCurrency() {
+        return secondCurrency;
     }
 
     public void setSecondCurrency(String secondCurrency) {
